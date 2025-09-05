@@ -7,32 +7,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Simpsons Memory Game</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #f9a825;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    code {
-      background: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    .highlight {
-      background: #fff8e1;
-      padding: 10px;
-      border-radius: 8px;
-      border: 1px solid #fbc02d;
-    }
-  </style>
+
 </head>
 <body>
 
