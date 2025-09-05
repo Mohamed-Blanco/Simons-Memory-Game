@@ -1,6 +1,6 @@
 The Simpsons Memory Game
 
-This project is part of Angela Yu’s Web Development Bootcamp.
+This project is part of Angela Yu’s Web Development Bootcamp 2021 .
 
 It’s a fun memory challenge game inspired by The Simpsons, designed to train and improve your memorization skills.
 
