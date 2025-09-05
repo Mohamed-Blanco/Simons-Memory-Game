@@ -1,7 +1,7 @@
 <img width="1904" height="925" alt="image" src="https://github.com/user-attachments/assets/e1efae62-931e-4219-a17a-4b5a5b2623da" />
 
 
-The Simpsons Memory Game
+<h1>The Simpsons Memory Game </h1>
 
 This project is part of Angela Yu’s Web Development Bootcamp 2021 .
 
