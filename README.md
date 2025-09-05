@@ -11,7 +11,7 @@
 <body>
 
   <h1>🎮 The Simpsons Memory Game</h1>
-  <p>This project is part of <strong>Angela Yu’s Web Development Bootcamp</strong>.</p>
+  <p>This project is part of <strong>Angela Yu’s Web Development Bootcamp 2021 </strong>.</p>
   <p>It’s a fun <em>memory challenge game</em> inspired by <strong>The Simpsons</strong>, designed to train and improve your memorization skills.</p>
 
   <h2>📜 Game Rules</h2>
